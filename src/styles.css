@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.highlighted {
+  background-color: #badbad;
+  padding: 12px;
+}
